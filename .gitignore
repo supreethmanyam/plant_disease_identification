@@ -91,6 +91,7 @@ dmypy.json
 .DS_Store
 # Data paths
 data/
+app/plant_diseases.pkl
 
 # VS Code
 .vscode
